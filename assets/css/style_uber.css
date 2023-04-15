@@ -1,0 +1,90 @@
+#nav_items {
+    color: white;
+}
+
+.content{
+    background-image: url(../img/Captura\ de\ pantalla\ 2023-03-30\ 211049.png);
+    height: 43rem;
+}
+
+#content2 {
+    background-image: url(../img/fondo2.png);
+    height: 20rem;
+}
+
+#btn_registrate {
+    background-color: white;
+    color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-custom {
+    background-color:black
+}
+
+.navbar-toggler {
+    background-color:white
+}
+
+#reg {
+    background-color: white; color:black
+}
+
+.log {
+    background-color: rgba(0, 0, 0, 0); color:white;
+    transition: background-color 300ms ease-out;
+}
+
+.log:hover {
+    background-color: rgba(51, 51, 51, 1);
+}
+
+.bg1 {
+    margin: -1%; zoom: 100%; padding: 0%; border: 0%; width: 120%;
+}
+
+.link-4 {
+    color: black;
+    text-decoration: none;
+}
+
+.link-5 {
+    padding-left: 10px;
+    color: black;
+    font-size: 1.7rem;
+    text-decoration: none;
+}
+
+.ft1 {
+    background-color: black;
+}
+
+.ftn {
+    color: white
+}
+.list-group-item {
+    background-color: black;
+    color: white;
+    border: 0px;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+}
+
+.cth {
+    text-underline-offset: 5px ;
+    text-decoration-color: gray;
+}
+
+.gr1 {
+    background-color: lightgray;
+}
